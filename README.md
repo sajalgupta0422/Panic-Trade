@@ -8,8 +8,6 @@ The notebook simulates next-day underlying prices with a one-step lognormal mode
 - **Outcome distributions** (profit per contract) to highlight skew and “mean vs median” behavior
 - **Breakeven barrier** The Dynamic Breakeven Barrier
 
-$$\mathrm{CE} \approx \mathbb{E}[\Pi] - \frac{1}{2}A\,\mathrm{Var}(\Pi)$$
-
 where $\Pi$ is profit per contract and $A$ is a risk-aversion parameter.
 
 ## What’s in here
